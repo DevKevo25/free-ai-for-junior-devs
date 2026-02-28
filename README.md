@@ -122,7 +122,7 @@ Open script.js and find this line:
 
 ```js
 // 🔑 PASTE YOUR KEY HERE
-const GROQ_API_KEY = "gsk_YOUR_KEY";   // <-- replace this
+const api_key = "GROQ_API_KEY";   // <-- replace this
 ```
 
 ✅ Save it. That's it.
